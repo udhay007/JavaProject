@@ -8,6 +8,6 @@ public class javaproject {
 	public void employee1() {
 		System.out.println("employee1");
 	}
-	
+	public static void main (args )
 	
 }
